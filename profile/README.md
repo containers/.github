@@ -6,7 +6,7 @@
 We're a collection of open source tools that create, configure, and work with containers.
 
 ## 🛠️ Tools
-Some of our tools include [Podman](https://github.com/containers/podman), [Podman Desktop](https://github.com/containers/podman-desktop), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), and [crun](https://github.com/containers/crun), just to name a few. We also have several supporting libraries for these tools, such as [common](https://github.com/containers/common), [storage](https://github.com/containers/storage), [image](https://github.com/containers/image), and more. Check them out and see all the cool things happening!
+Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), [crun](https://github.com/containers/crun), and [Podman Desktop](https://github.com/containers/podman-desktop), just to name a few. We also have several supporting libraries for these tools, such as [common](https://github.com/containers/common), [storage](https://github.com/containers/storage), [image](https://github.com/containers/image), and more. Check them out and see all the cool things happening!
 
 ## 🤝 Community
 We have an active community. Most of our community communication channels are around [Podman](https://github.com/containers/podman), but we definitely welcome anyone with an interest in containers or any of our tools.
@@ -25,7 +25,7 @@ Follow us on Twitter! [@podman_io](https://twitter.com/podman_io) [@buildah_io](
 ## 👩‍💻 Contributing
 We welcome and encourage contributions, including issues, discussions, and PR's. Please make sure to read our [Contributing Guidelines](https://github.com/containers/common/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/containers/common/blob/main/CODE-OF-CONDUCT.md) before doing so.
 
-## Security
+## 🔐 Security
 Found a security issue? Most projects follow our [Security and Disclosure Policy](https://github.com/containers/common/blob/main/SECURITY.md), but a few may have further instructions, so please check the specific project's SECURITY.md in their top-level repository on how to proceed.
 
 ##
@@ -41,5 +41,8 @@ Found a security issue? Most projects follow our [Security and Disclosure Policy
   </a>
   <a href="https://github.com/containers/crun">
     <img src="https://github.com/containers/common/blob/main/logos/crun-logo-full-vert.png" alt="crun" width="150px"/>
+  </a>
+  <a href="https://github.com/containers/podman-desktop">
+    <img src="https://github.com/containers/common/blob/main/logos/podman-desktop-logo.png" alt="Podman Desktop" width="135px"/>
   </a>
 </p>
