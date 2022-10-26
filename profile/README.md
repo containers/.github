@@ -33,6 +33,9 @@ Found a security issue? Most projects follow our [Security and Disclosure Policy
    <a href="https://github.com/containers/podman">
     <img src="https://github.com/containers/common/blob/main/logos/podman-logo-full-vert.png" alt="Podman" width="150px"/>
   </a>
+   <a href="https://github.com/containers/podman-desktop">
+    <img src="https://github.com/containers/common/blob/main/logos/podman-desktop-logo.png" alt="Podman Desktop" width="150px"/>
+  </a>
   <a href="https://github.com/containers/buildah">
     <img src="https://github.com/containers/common/blob/main/logos/buildah-logo-full-vert.png" alt="Buildah" width="150px"/>
   </a>
