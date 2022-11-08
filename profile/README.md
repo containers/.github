@@ -31,18 +31,18 @@ Found a security issue? Most projects follow our [Security and Disclosure Policy
 ##
 <p align="center">
    <a href="https://github.com/containers/podman">
-    <img src="https://github.com/containers/common/blob/main/logos/podman-logo-full-vert.png" alt="Podman" width="150px"/>
-  </a>
-  <a href="https://github.com/containers/buildah">
-    <img src="https://github.com/containers/common/blob/main/logos/buildah-logo-full-vert.png" alt="Buildah" width="150px"/>
-  </a>
-  <a href="https://github.com/containers/skopeo">
-    <img src="https://github.com/containers/common/blob/main/logos/skopeo-logo-full-vert.png" alt="Skopeo" width="150px"/>
-  </a>
-  <a href="https://github.com/containers/crun">
-    <img src="https://github.com/containers/common/blob/main/logos/crun-logo-full-vert.png" alt="crun" width="150px"/>
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_podman.png" alt="Podman" width="150px"/>
   </a>
   <a href="https://github.com/containers/podman-desktop">
-    <img src="https://github.com/containers/common/blob/main/logos/podman-desktop-logo.png" alt="Podman Desktop" width="135px"/>
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_podmandesktop.png" alt="Podman Desktop" width="150px"/>
+  </a>
+  <a href="https://github.com/containers/buildah">
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_buildah.png" alt="Buildah" width="150px"/>
+  </a>
+  <a href="https://github.com/containers/skopeo">
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_skopeo.png" alt="Skopeo" width="150px"/>
+  </a>
+  <a href="https://github.com/containers/crun">
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_crun.png" alt="crun" width="135px"/>
   </a>
 </p>
