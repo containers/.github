@@ -46,6 +46,6 @@ Found a security issue? Most projects follow our [Security and Disclosure Policy
     <img src="https://github.com/containers/common/blob/main/logos/logo_circle_crun.png" alt="crun" width="150px"/>
   </a>
   <a href="https://github.com/containers/youki">
-    <img src="https://github.com/containers/youki/blob/main/docs/youki_flat_full.png" alt="youki" width="150px"/>
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_youki.png" alt="youki" width="150px"/>
   </a>
 </p>
