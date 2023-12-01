@@ -13,7 +13,7 @@ We have an active community. Most of our community communication channels are ar
 
 Maintainers of Containers and other community members generally chat here:
 - IRC: #podman on [libera.chat](https://libera.chat/)
-- Matrix: [#podman:matrix.org](https://matrix.to/#/#podman:fedoraproject.org)
+- Matrix: [#podman:fedoraproject.org](https://matrix.to/#/#podman:fedoraproject.org)
 - Discord: [Podman](https://discord.com/invite/x5GzFF6QH4)
 
 The Matrix room has been bridged with the Discord server and the libera.chat channel so joining one should be sufficient.
