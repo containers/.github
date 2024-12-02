@@ -6,15 +6,12 @@
 We're a collection of open source tools that create, configure, and work with containers.
 
 ## 🛠️ Tools
-Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), [crun](https://github.com/containers/crun), [Podman Desktop](https://github.com/containers/podman-desktop) and [youki](https://github.com/containers/youki), just to name a few. We also have several supporting libraries for these tools, such as [common](https://github.com/containers/common), [storage](https://github.com/containers/storage), [image](https://github.com/containers/image), and more. Check them out and see all the cool things happening!
+Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), and [crun](https://github.com/containers/crun), just to name a few. We also have several supporting libraries for these tools, such as [common](https://github.com/containers/common), [storage](https://github.com/containers/storage), [image](https://github.com/containers/image), and more. Check them out and see all the cool things happening!
 
 ##
 <p align="center">
    <a href="https://github.com/containers/podman">
     <img src="https://github.com/containers/common/blob/main/logos/logo_circle_podman.png" alt="Podman" width="150px"/>
-  </a>
-  <a href="https://github.com/containers/podman-desktop">
-    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_podmandesktop.png" alt="Podman Desktop" width="150px"/>
   </a>
   <a href="https://github.com/containers/buildah">
     <img src="https://github.com/containers/common/blob/main/logos/logo_circle_buildah.png" alt="Buildah" width="150px"/>
@@ -27,9 +24,6 @@ Some of our tools include [Podman](https://github.com/containers/podman), [Build
   </a>
   <a href="https://github.com/containers/crun">
     <img src="https://github.com/containers/common/blob/main/logos/logo_circle_crun.png" alt="crun" width="150px"/>
-  </a>
-  <a href="https://github.com/containers/youki">
-    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_youki.png" alt="youki" width="150px"/>
   </a>
 </p>
 
