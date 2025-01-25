@@ -6,7 +6,7 @@
 We're a collection of open source tools that create, configure, and work with containers.
 
 ## 🛠️ Tools
-Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), [crun](https://github.com/containers/crun), [Podman Desktop](https://github.com/containers/podman-desktop) and [youki](https://github.com/containers/youki), just to name a few. We also have several supporting libraries for these tools, such as [common](https://github.com/containers/common), [storage](https://github.com/containers/storage), [image](https://github.com/containers/image), and more. Check them out and see all the cool things happening!
+Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), [crun](https://github.com/containers/crun), [Podman Desktop](https://github.com/containers/podman-desktop), [youki](https://github.com/containers/youki) and [RamaLama](https://github.com/containers/ramalama) just to name a few. We also have several supporting libraries for these tools, such as [common](https://github.com/containers/common), [storage](https://github.com/containers/storage), [image](https://github.com/containers/image), and more. Check them out and see all the cool things happening!
 
 ##
 <p align="center">
@@ -31,6 +31,9 @@ Some of our tools include [Podman](https://github.com/containers/podman), [Build
   <a href="https://github.com/containers/youki">
     <img src="https://github.com/containers/common/blob/main/logos/logo_circle_youki.png" alt="youki" width="150px"/>
   </a>
+  <a href="https://github.com/containers/ramalama">
+    <img src="https://github.com/containers/common/blob/main/logos/logo_circle_ramalama.png" alt="ramalama" width="150px"/>
+  </a>
 </p>
 
 ## 🤝 Community
@@ -45,7 +48,7 @@ The Matrix room has been bridged with the Discord server and the libera.chat cha
 
 We hold also [community meetings](https://podman.io/community/#community-meetings) around once a month and have a [mailing list](https://podman.io/community/#mailing-list) for additional discussion.
 
-Follow us on Twitter! [@podman_io](https://twitter.com/podman_io) [@buildah_io](https://twitter.com/buildah_io)
+Follow us on Twitter! [@podman_io](https://x.com/podman_io) [@buildah_io](https://x.com/buildah_io)
 
 ## 👩‍💻 Contributing
 We welcome and encourage contributions, including issues, discussions, and PR's. Please make sure to read our [Contributing Guidelines](https://github.com/containers/common/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/containers/common/blob/main/CODE-OF-CONDUCT.md) before doing so.
