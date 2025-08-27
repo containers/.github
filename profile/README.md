@@ -46,7 +46,7 @@ Maintainers of Containers and other community members generally chat here:
 
 The Matrix room has been bridged with the Discord server and the libera.chat channel so joining one should be sufficient. Is the bridge down? [Check out this guide](https://github.com/containers/podman-desktop/wiki/Matrix-and-Discord-bridge-care-and-feeding).
 
-We hold also [community meetings](https://podman.io/community/#community-meetings) around once a month and have a [mailing list](https://podman.io/community/#mailing-list) for additional discussion.
+We also hold [community meetings](https://podman.io/community/#community-meetings) around once a month and have a [mailing list](https://podman.io/community/#mailing-list) for additional discussion.
 
 Follow us on Twitter! [@podman_io](https://x.com/podman_io) [@buildah_io](https://x.com/buildah_io)
 
