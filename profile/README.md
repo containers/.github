@@ -44,7 +44,7 @@ Maintainers of Containers and other community members generally chat here:
 - Matrix: [#podman:fedoraproject.org](https://matrix.to/#/#podman:fedoraproject.org)
 - Discord: [Podman](https://discord.com/invite/x5GzFF6QH4)
 
-The Matrix room has been bridged with the Discord server and the libera.chat channel so joining one should be sufficient. Is the bridge down? [Check out this guide](https://github.com/containers/podman-desktop/wiki/Matrix-and-Discord-bridge-care-and-feeding).
+Note: The Matrix room has been bridged with the Discord server
 
 We also hold [community meetings](https://podman.io/community/#community-meetings) around once a month and have a [mailing list](https://podman.io/community/#mailing-list) for additional discussion.
 
