@@ -6,7 +6,7 @@
 We're a collection of open source tools that create, configure, and work with containers.
 
 ## 🛠️ Tools
-Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), [crun](https://github.com/containers/crun), and [RamaLama](https://github.com/containers/ramalama) as well as our supporting libraries common, storage, image in the [container-libs](https://github.com/containers/container-libs) repo. Check them out and see all the cool things happening!
+Some of our tools include [Podman](https://github.com/containers/podman), [Buildah](https://github.com/containers/buildah), [Skopeo](https://github.com/containers/skopeo), [conmon-rs](https://github.com/containers/conmon-rs), [crun](https://github.com/containers/crun), and [RamaLama](https://github.com/containers/ramalama), as well as our supporting libraries, common, storage, and image in the [container-libs](https://github.com/containers/container-libs) repo. Check them out and see all the cool things happening!
 
 ##
 <p align="center">
@@ -26,6 +26,18 @@ Some of our tools include [Podman](https://github.com/containers/podman), [Build
     <img src="logos/logo_circle_ramalama.png" alt="ramalama" width="150px"/>
   </a>
 </p>
+
+## 🛫 Related Repositories Living Elsewhere
+<p align="center">
+  <a href="https://github.com/podman-desktop/podman-desktop">
+    <img src="logos/logo_circle_podmandesktop.png" alt="Podman Desktop" width="150px"/>
+  </a>
+  <a href="https://github.com/bootc-dev/bootc">
+    <img src="logos/logo_circle_bootc.png" alt="bootc" width="150px"/>
+  </a>
+  <a href="https://github.com/youki-dev/youki">
+    <img src="logos/logo_circle_youki.png" alt="youki" width="150px"/>
+  </a>
 
 ## 🤝 Community
 We have an active community. Most of our community communication channels are around [Podman](https://github.com/containers/podman), but we definitely welcome anyone with an interest in containers or any of our tools.
