@@ -63,4 +63,6 @@ Follow us on Twitter! [@podman_io](https://x.com/podman_io) [@buildah_io](https:
 We welcome and encourage contributions, including issues, discussions, and PR's. Please make sure to read our [Contributing Guidelines](https://github.com/containers/container-libs/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/containers/container-libs/blob/main/CODE-OF-CONDUCT.md) before doing so.
 
 ## 🔐 Security
-Found a security issue? Most projects follow our [Security and Disclosure Policy](https://github.com/containers/container-libs/blob/main/SECURITY.md), but a few may have further instructions, so please check the specific project's SECURITY.md in their top-level repository on how to proceed.
+Found a security issue? Please visit the security issue reporting process of the individual project you are reporting against. Most projects have a SECURITY.md file in their top-level repository with specific instructions on how to report security vulnerabilities. If a SECURITY.md file doesn't exist, you can report security issues via the "Security and quality" tab in the project's repository.
+
+**LAST RESORT:** If the project-specific security process is unclear, please open a [public issue](https://github.com/containers/.github/issues/new) and tag @Luap99 and @mheon. They will help route your report appropriately. **Do not include security issue details in the public issue** - only mention the project for which you want to report the issue.
